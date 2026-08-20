@@ -1,12 +1,4 @@
-# EightKB Conference Session Proposal
-
-## Title
-
-**Enterprise Vibe Coding**
-
----
-
-## Abstract
+# Enterprise Vibe Coding
 
 While Spotify's top engineers have not written a line of code in 2026 and Claude now authors more than 80% of everything Anthropic merges, a Cursor agent running Claude Opus 4.6 deleted PocketOS's production database and every backup in nine seconds, using an over-permissioned API token it found in an unrelated file.
 
